@@ -74,4 +74,4 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JhonatanSabugo&repo=JhonatanSabugo&theme=react" />  
 </div>
 
-![Snake animation](https://github.com/JhonatanSabugo/JhonatanSabugo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/JhonatanSabugo/JhonatanSabugo/blob/output/github-contribution-grid-snake.svg)
