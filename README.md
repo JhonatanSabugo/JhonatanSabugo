@@ -15,7 +15,7 @@
 <div>
    <h3>Sobre mim 💬</h3>  
 - 🔭 Atualmente estou trabalhando na empresa Kadesh Equipamentos Profissionais  </br>
-- 🌱 Atualmente estou aprendendo Python e Git  </br>
+- 🌱 Estou aprendendo Python e Git  </br>
 - 👯 Estou procurando colaborar em pequenos projetos em python para aprofundar meus conhecimentos  </br>
 - 🤔 Estou procurando ajuda ou até mesmo mentoria em Back-end  </br>
 - ⚡ Fun fact: Desejo me tornar um dev Fullstack de renome
